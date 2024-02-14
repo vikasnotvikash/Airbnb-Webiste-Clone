@@ -1049,6 +1049,10 @@ input:checked+.slider:before {
     text-decoration: underline;
 }
 
+.btnn
+{
+    visibility: hidden;
+}
 
 /* media queries */
 
